@@ -26,7 +26,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 ```text
 JavaScript-todo-list/
 │
+├── README.md
 ├── index.html
-├── style.css
 ├── script.js
-└── README.md
+└── style.css
